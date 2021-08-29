@@ -5,3 +5,5 @@ In this repository will be my school c++ programs/any basic programs i design fo
 
 Thank you!
 
+Programs: 
+main1.cpp  //Main use of this program is two add two numbers that the user enters, then provide a result

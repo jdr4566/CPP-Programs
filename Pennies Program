@@ -1,0 +1,44 @@
+/*John-David Rodriguez Course 1436-57001 
+The purpose of this program is to calcuate the pennies and convert to other currencies
+*/
+
+#include <iostream>
+using namespace std;
+
+int main() {
+	int penny1;
+	
+	//Get Input from the user
+	cout<<"Please enter your pennies"<<endl;
+	cin>>penny1;
+	
+	//Calculate the dollar amount
+	
+	int dollar = (penny1/100);
+	//Get the dollar value that remains
+	int dollarval = (penny1/100);	
+	
+	//Now Quarters
+	int quarterval = (dollarval/25);
+	
+	//Now Dimes
+	int dimeval = (dollarval/10);
+	
+	//Now Nickels
+	int nickelval =(dollarval/5);
+	
+	//Now Pennies
+	int pennyval =(dollarval/1);
+		
+	//Display the value in dollars o the user
+	
+	cout<<"Your Dollar value is = "<<dollar<<endl;
+	cout<<"Your Quarter Value is "<<quarterval<<endl;
+	cout<<"Your Dime Value is= "<<dimeval<<endl;
+	cout<<"Your Nickel Value is = "<<nickelval<<endl;
+	cout<<"Your penny value is = "<<pennyval<<endl;
+	
+	
+	
+	return 0;
+}

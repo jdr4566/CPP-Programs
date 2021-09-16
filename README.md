@@ -15,3 +15,7 @@ main1.cpp  //Main use of this program is two add two numbers that the user enter
 
 Pennies   // Main purpose of this program is to take user entered penny value and convert to other currencies
 
+
+Unit 4 Assignment Part 1 // This program is made to accept input from the user while the value entered does not equal -1 (the exit value) and will continue to loop
+
+Unit 4 Assignment Part 2 // 

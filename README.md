@@ -18,4 +18,4 @@ Pennies   // Main purpose of this program is to take user entered penny value an
 
 Unit 4 Assignment Part 1 // This program is made to accept input from the user while the value entered does not equal -1 (the exit value) and will continue to loop
 
-Unit 4 Assignment Part 2 // 
+Unit 4 Assignment Part 2 // This program is made to take input from the user for the value of N (the stopping point) and prints out the first N ordinals, followed by Hello. 

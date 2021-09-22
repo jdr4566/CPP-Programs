@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int i =0; //Declaring Variable
+     //Starting While Loop
+    while (i<21){
+      cout<<"I Love Cheeseburgers"<<endl;
+      i++;                    //Counter
+        if(i<=19){            //Stating that if i is less than or equal to 19 then print this: 
+          cout<<"But pizza is good too"<<endl;
+        }
+    }
+    
+    return 0;
+        
+}

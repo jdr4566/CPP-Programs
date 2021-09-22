@@ -10,7 +10,7 @@ Programs:
 
 main1.cpp  //Main use of this program is two add two numbers that the user enters, then provide a result
 
-
+While Loop  //A simple While loop for reference
 
 
 Pennies   // Main purpose of this program is to take user entered penny value and convert to other currencies

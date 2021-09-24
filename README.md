@@ -1,5 +1,5 @@
-# C-Basic-Programs
-C++ Basic Programs
+# C-PP-Programs
+C++  Programs
 
 In this repository will be my school c++ programs/any basic programs i design for future showcasing / professional reference. 
 

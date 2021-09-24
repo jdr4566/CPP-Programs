@@ -1,7 +1,7 @@
-# C-PP-Programs
+# CPP-Programs
 C++  Programs
 
-In this repository will be my school c++ programs/any basic programs i design for future showcasing / professional reference. 
+In this repository will be my  c++ programs i design for future showcasing / professional reference. 
 
 Thank you!
 

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Two_Dimensional_Array_Rodrigue", "Two_Dimensional_Array_Rodrigue.vcxproj", "{851D369C-3A57-4DD3-8FB4-EA6A34931CCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{851D369C-3A57-4DD3-8FB4-EA6A34931CCF}.Debug|x64.ActiveCfg = Debug|x64
+		{851D369C-3A57-4DD3-8FB4-EA6A34931CCF}.Debug|x64.Build.0 = Debug|x64
+		{851D369C-3A57-4DD3-8FB4-EA6A34931CCF}.Debug|x86.ActiveCfg = Debug|Win32
+		{851D369C-3A57-4DD3-8FB4-EA6A34931CCF}.Debug|x86.Build.0 = Debug|Win32
+		{851D369C-3A57-4DD3-8FB4-EA6A34931CCF}.Release|x64.ActiveCfg = Release|x64
+		{851D369C-3A57-4DD3-8FB4-EA6A34931CCF}.Release|x64.Build.0 = Release|x64
+		{851D369C-3A57-4DD3-8FB4-EA6A34931CCF}.Release|x86.ActiveCfg = Release|Win32
+		{851D369C-3A57-4DD3-8FB4-EA6A34931CCF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F805F3B7-6381-45D9-95B4-1EA9DBA07DA3}
+	EndGlobalSection
+EndGlobal

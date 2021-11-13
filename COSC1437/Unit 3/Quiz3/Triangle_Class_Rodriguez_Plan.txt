@@ -1,0 +1,6 @@
+Step 1 : Determine which variables will i be using
+Step 2 : create a triangle class with the proper data
+Step 3 : write code in int main to accept base and height for 3 triangle instances
+Step 4 : ensure i am validating my input
+Step 5 : Echo to user the values that they have provided and the area of triangle
+Step 6 : Output to screen totalarea()

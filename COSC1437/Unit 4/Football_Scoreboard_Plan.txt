@@ -1,0 +1,10 @@
+Step 1 : determine which variables will be in which class or what will ne used
+Step 2 : create a class named team and a scoreboard class
+Step 3 : add proper variables and default constructors
+Step 4 : create proper setters and getters for each class
+Step 5 : in int main create local variables to be used
+Step 6 : create first instances with zero values to display default value
+Step 7 : cout the proper information
+Step 8 :  get validated input from user 
+Step 9 : pass data through the class settters and gettters
+Step 10 : display results

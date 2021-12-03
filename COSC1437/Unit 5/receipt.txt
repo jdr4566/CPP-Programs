@@ -1,0 +1,5 @@
+Writing this to a file. 
+Your Subtotal Is: 1482
+Your Tax is: 0
+Your Tip is : 0
+Your Total paid is: 0
